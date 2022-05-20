@@ -15,3 +15,6 @@ path = "src/main.rs"
 
 
 [dependencies]
+stereokit-macros = {path="../stereokit-macros"}
+stereokit-rs = {path="../stereokit-rs-2"}
+stereokit-sys = "0.1.0"
